@@ -1,0 +1,5 @@
+F:\Nerd-X\exe,iso,zip\welcome.exe
+F:\Nerd-X\exe,iso,zip\welcome.dll
+F:\Nerd-X\exe,iso,zip\welcome.deps.json
+F:\Nerd-X\exe,iso,zip\welcome.runtimeconfig.json
+F:\Nerd-X\exe,iso,zip\welcome.pdb
